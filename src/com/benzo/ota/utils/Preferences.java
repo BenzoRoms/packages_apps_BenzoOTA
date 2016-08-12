@@ -126,11 +126,7 @@ public class Preferences implements Constants{
         case 2:
             return R.style.Theme_RagnarDark;
         default:
-        	if (Utils.isLollipop()) {
-        		return R.style.Theme_RagnarLight;
-        	} else {
-        		return R.style.Theme_RagnarDark;
-        	}
+            return R.style.Theme_RagnarDark;
         }
     }
 	
@@ -145,11 +141,7 @@ public class Preferences implements Constants{
         case 2:
             return R.style.Theme_RagnarDark_Settings;
         default:
-        	if (Utils.isLollipop()) {
-        		return R.style.Theme_RagnarLight_Settings;
-        	} else {
-        		return R.style.Theme_RagnarDark_Settings;
-        	}
+            return R.style.Theme_RagnarDark_Settings;
         }
     }
 
