@@ -24,8 +24,8 @@
     <!-- App Strings -->
     <string name="app_name" translatable="false">Benzo OTA</string>
     <string name="prop_name" translatable="false">ro.ota.romname</string>
-    <string name="app_version" translatable="false">2.4.5</string>
-    <string name="changelog_url" translatable="false">http://oceighty.co/ota/Chanelog.txt</string>
+    <string name="app_version" translatable="false">3.0.0</string>
+    <string name="changelog_url" translatable="false">http://oceighty.co/benzoroms/Chanelog.txt</string>
 
     <!-- Generic strings -->
     <string name="cancel">Cancel</string>
@@ -50,5 +50,7 @@
     <string name="changelog">Changelog</string>
     <string name="changelog_summary">View the app\'s changelog</string>
     <string name="changelog_error">Error reading changelog</string>
+    <string name="about_donate_title">Donate</string>
+    <string name="about_donate_summary">If you enjoy Benzo and want to donate here is the way</string>
 
 </resources>

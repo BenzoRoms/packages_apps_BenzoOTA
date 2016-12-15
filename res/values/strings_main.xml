@@ -26,13 +26,13 @@
     <string name="main_website">Google+ Community</string>
     <string name="main_website_summary">Visit Benzo Roms\'s Google+ Community</string>
     <string name="main_donate">Donate</string>
-    <string name="main_donate_summary">Donate to the ROM developer</string>
+    <string name="main_donate_summary">If you enjoy Benzo and want to donate here is the way</string>
     <string name="main_tap_to_download">Tap to download</string>
     <string name="main_download_completed_details">Tap for details</string>
     <string name="main_tap_to_view_progress">Tap to view progress</string>
     <string name="main_last_checked">Last checked for an update at</string>
     <string name="main_addon">Addons</string>
-    <string name="main_addon_summary">Browse and download additional files for this ROM</string>
+    <string name="main_addon_summary">Download Google Apps vendors and other files</string>
 
     <!-- ROM Information -->
     <string name="main_rom_information">ROM information</string>

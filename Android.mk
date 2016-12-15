@@ -1,5 +1,5 @@
 #	Copyright (C) 2015 Matt Booth (Kryten2k35).
-#	Copyright (C) 2015 Benzo Rom
+#	Copyright (C) 2016 Benzo Rom
 # 
 # 	Licensed under the Attribution-NonCommercial-ShareAlike 4.0 International 
 # 	(the "License") you may not use this file except in compliance with the License.
@@ -19,8 +19,7 @@ include $(CLEAR_VARS)
 ifndef TARGET_ARCH_ABI
 TARGET_ARCH_ABI := armeabi-v7a
 endif
-CFLAGS = -Wno-sign-compare
-CPPFLAGS = -Wno-sign-compare
+
 # Cardview Dir
 cardview_dir := ../../../frameworks/support/v7/cardview
 chips_dir := ../../../frameworks/opt/chips/res

@@ -47,6 +47,8 @@
 
             <include layout="@layout/card_website" />
 
+            <include layout="@layout/card_donate" />
+
             <include layout="@layout/card_rom_info" />
         </LinearLayout>
     </ScrollView>
