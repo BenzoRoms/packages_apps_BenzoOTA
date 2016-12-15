@@ -24,7 +24,7 @@
         android:id="@+id/toolbar_main"
         android:layout_width="match_parent"
         android:layout_height="56dp"
-        android:background="?attr/colorPrimary"
+        android:background="@color/accent_pixel_blue"
         android:theme="@style/Theme.RagnarDark" />
 
     <ScrollView

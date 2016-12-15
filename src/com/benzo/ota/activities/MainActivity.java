@@ -229,12 +229,12 @@ public class MainActivity extends Activity implements Constants{
 				String htmlColorOpen = "";
 				if (isLollipop) {
 					if (Preferences.getCurrentTheme(mContext) == 0) { // Light
-						htmlColorOpen = "<font color='#009688'>";
+						htmlColorOpen = "<font color='#4f8bef'>";
 					} else {
-						htmlColorOpen = "<font color='#80cbc4'>";
+						htmlColorOpen = "<font color='#4f8bef'>";
 					}
 				} else {
-					htmlColorOpen = "<font color='#33b5e5'>";
+					htmlColorOpen = "<font color='#4f8bef'>";
 				}
 				String htmlColorClose = "</font>";
 				String updateSummary = RomUpdate.getFilename(mContext)
@@ -249,12 +249,12 @@ public class MainActivity extends Activity implements Constants{
 				String htmlColorOpen = "";
 				if (isLollipop) {
 					if (Preferences.getCurrentTheme(mContext) == 0) { // Light
-						htmlColorOpen = "<font color='#009688'>";
+						htmlColorOpen = "<font color='#4f8bef'>";
 					} else {
-						htmlColorOpen = "<font color='#80cbc4'>";
+						htmlColorOpen = "<font color='#4f8bef'>";
 					}
 				} else {
-					htmlColorOpen = "<font color='#33b5e5'>";
+					htmlColorOpen = "<font color='#4f8bef'>";
 				}
 				String htmlColorClose = "</font>";
 				String updateSummary = htmlColorOpen
@@ -266,12 +266,12 @@ public class MainActivity extends Activity implements Constants{
 				String htmlColorOpen = "";
 				if (isLollipop) {
 					if (Preferences.getCurrentTheme(mContext) == 0) { // Light
-						htmlColorOpen = "<font color='#009688'>";
+						htmlColorOpen = "<font color='#4f8bef'>";
 					} else {
-						htmlColorOpen = "<font color='#80cbc4'>";
+						htmlColorOpen = "<font color='#4f8bef'>";
 					}
 				} else {
-					htmlColorOpen = "<font color='#33b5e5'>";
+					htmlColorOpen = "<font color='#4f8bef'>";
 				}
 				String htmlColorClose = "</font>";
 				String updateSummary = RomUpdate.getFilename(mContext)
@@ -324,12 +324,12 @@ public class MainActivity extends Activity implements Constants{
 		String htmlColorOpen = "";
 		if (isLollipop) {
 			if (Preferences.getCurrentTheme(mContext) == 0) { // Light
-				htmlColorOpen = "<font color='#009688'>";
+				htmlColorOpen = "<font color='#4f8bef'>";
 			} else {
-				htmlColorOpen = "<font color='#80cbc4'>";
+				htmlColorOpen = "<font color='#4f8bef'>";
 			}
 		} else {
-			htmlColorOpen = "<font color='#33b5e5'>";
+			htmlColorOpen = "<font color='#4f8bef'>";
 		}
 		String htmlColorClose = "</font>";
 

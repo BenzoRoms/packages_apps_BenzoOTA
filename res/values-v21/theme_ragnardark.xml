@@ -36,8 +36,8 @@
         <item name="android:colorPrimary">@color/material_primary</item>
         <item name="android:colorPrimaryDark">@color/material_primary_dark</item>
         <item name="colorPrimary">@color/material_primary</item>
-        <item name="colorPrimaryDark">@color/material_primary_dark</item>
-        <item name="android:colorAccent">@color/accent_blue_grey</item>
+        <item name="colorPrimaryDark">#202026</item>
+        <item name="android:colorAccent">@color/accent_pixel_blue</item>
         <item name="android:windowBackground">@drawable/material_background_dark</item>
         <item name="cardBackground">@color/card_background_material_dark</item>
         <item name="textColorPrimary">@color/primary_text_material_dark</item>
